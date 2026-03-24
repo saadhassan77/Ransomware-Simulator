@@ -39,6 +39,12 @@ The code has several debugging/testing comments that should be removed for actua
 It's crucial to handle potential errors and exceptions gracefully in a real-world scenario.
 Consider using more sophisticated encryption and anti-analysis techniques for advanced ransomware.
 
+⚠️ Disclaimer:
+This project is developed strictly for educational purposes in a controlled lab environment.
+It does NOT target real systems or data.
+Do not run this code outside a virtual machine or sandbox.
+
+
 
 # Working
 note: the file ran2.py which is used in video i rename it ransomware.py in the Ransomware folder.
