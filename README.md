@@ -1,4 +1,4 @@
-# Ransomware
+# Ransomware-Simulator
 Fulfilling a requirement for my Fundamentals of Malware Analysis (CY3004) course, this project not only strengthens my grasp of malware behavior and the tactics it employs for persistence, but also sheds light on the inner workings of file encryption and decryption as utilized by malware.
 
 # Description
